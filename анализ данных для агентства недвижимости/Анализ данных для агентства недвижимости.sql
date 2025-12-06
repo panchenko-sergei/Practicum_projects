@@ -1,4 +1,4 @@
-/* Проект первого модуля: анализ данных для агентства недвижимости
+/* Проект: анализ данных для агентства недвижимости
  * Часть 2. Решаем ad hoc задачи
  * 
  * Автор: Сергей Панченко
@@ -229,4 +229,5 @@ LEFT JOIN real_estate.city AS ec ON ec.city_id = ef.city_id
 WHERE  city != 'Санкт-Петербург'
 GROUP BY  city
 ORDER BY count_advertisement DESC
+
 LIMIT 15
