@@ -5,8 +5,8 @@
 
 | **Категория** | **Навыки** |
 | --- | --- |
-| Языки и СУБД | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d64a0c81-fe5e-46c3-b1e7-518418c7f93e" />
-;&#124;&#124; pandas &#124; matplotlib &#124; seaborn &#124; PostgreSQL &#124; Jupyter |
+| Языки и СУБД | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c9fa321b-bacd-42c2-a853-5bb12b46242f" />
+; pandas &#124; matplotlib &#124; seaborn &#124; PostgreSQL &#124; Jupyter |
 | BI & Визуализация | DataLens &#124; Tableau &#124; Excel |
 | Аналитика | А/В тесты, Анализ пользовательского поведения, Сбор и анализ информации, Математическая статистика |
 | Soft Skills | Аналитическое мышление, Быстрая обучаемость, Работа в команде, Стрессоустойчивость |
