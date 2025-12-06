@@ -1,2 +1,5 @@
-| <div align="center"><b><big>Содержание репозитрия/big></b></div> |
-|-----------------------------------------------------|
+<table>
+  <tr>
+    <td style="text-align: center; font-weight: bold; font-size: 1.5em;">Содержание репозитрия</td>
+  </tr>
+</table>
