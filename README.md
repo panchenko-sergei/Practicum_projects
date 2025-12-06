@@ -4,5 +4,4 @@
 `Цель проекта` — изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты «райские лепестки», а также оценить активность игроков при совершении внутриигровых покупок
 
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_logo.svg)
+[pandas](https://disk.yandex.ru/i/BE5Try1ORgEaEw)
