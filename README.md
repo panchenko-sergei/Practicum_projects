@@ -1,3 +1,3 @@
 <p align="center">
-**Содержание репозитрия**
+<span style="font-size: 24px; font-weight: bold;">Содержание репозитрия, размер 24px</span>
 </p>
